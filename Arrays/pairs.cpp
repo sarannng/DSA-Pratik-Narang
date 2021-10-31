@@ -65,28 +65,3 @@ int main(){
 
 
 
-
-
-// #include<iostream>
-// #include<vector>
-
-// using namespace std;
-
-// int twosum(int arr[], int targer);
-
-// int twosum(int arr[], int target){
-//      // brute force 
-//     // 10, 5, 2, 3, -6, 9, 11
-
-//     for(int i=0; i<arr.size(); i++){
-
-//     }
-
-// }
-
-
-// int main(){
-//  int arr[7] = {10, 5, 2, 3, -6, 9, 11};
-
-//     int size = 7, 
-// }
